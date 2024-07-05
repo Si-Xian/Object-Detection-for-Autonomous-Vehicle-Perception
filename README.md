@@ -35,4 +35,5 @@ bicyclist class to the dataset, so that the model can learning more features abo
 
 ## Reference to coding:
 https://www.kaggle.com/code/arushupadhyaya/yolo-8-od
+
 https://www.kaggle.com/code/saeedsarrafzadeh/yolov5-v8-object-detection
